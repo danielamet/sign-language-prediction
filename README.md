@@ -1,19 +1,29 @@
 # Predikcija slova znakovnog jezika upotrebom CNN
 
-## Autor
+### Autor
 Daniela Metikoš sw-81/2017
 
-## Asistent
+
+
+### Asistent
 Dragan Vidaković
 
-## Definicija problema
+
+
+### Definicija problema
 Prepoznavanje slova znakovnog jezika upotrebom CNN
 
-## Skup podataka
+
+
+### Skup podataka
 [https://www.kaggle.com/datamunge/sign-language-mnist](https://www.kaggle.com/datamunge/sign-language-mnist)
 
-## Metodologija
+
+
+### Metodologija
 Pretprocesiranje i obrada slika vršiće se konvertovanjem u grayscale i normalizacijom, dok će se za obučavanje modela koristiti CNN. 
 
-## Evaluacija   
+
+
+### Evaluacija   
 Kao metrika koristiće se mera tačnosti, upoređivanjem prediktovanog i stvarnog slova na testnom skupu slika. 
